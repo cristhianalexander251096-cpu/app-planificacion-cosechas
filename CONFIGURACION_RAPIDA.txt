@@ -1,0 +1,13 @@
+CONFIGURACION RAPIDA
+
+[ ] Crear repositorio GitHub.
+[ ] Copiar todos los archivos del paquete a la raíz.
+[ ] Crear Azure Static Web App.
+[ ] Agregar AZURE_STATIC_WEB_APPS_API_TOKEN en GitHub Secrets si usa el workflow incluido.
+[ ] Registrar APP_Planificacion_Cosechas_Web en Microsoft Entra ID.
+[ ] Configurar plataforma SPA con la URL publicada.
+[ ] Agregar permisos User.Read y Sites.ReadWrite.All.
+[ ] Confirmar hostname y ruta exacta del sitio GESTIÓN DE PRODUCCIÓN.
+[ ] Abrir la aplicación y completar Conexión empresarial.
+[ ] Probar lectura de las cinco listas.
+[ ] Crear una proyección de prueba y comprobar Cosechas + HistorialCosechas.
